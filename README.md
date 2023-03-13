@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @indrasary
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on deep learning implementation for healthcare system
-- 📫 How to reach me indrasary@gmail.com
+# tutorial ekstraksi informasi
+berisi tutorial untuk melakukan ekstraksi informasi dari berita. 
+Tutorial ini berasal dari situs https://www.youtube.com/watch?v=sUtthdcPyhc&t=273s
 
 <!---
 indrasary/indrasary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
