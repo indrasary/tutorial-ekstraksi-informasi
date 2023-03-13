@@ -1,5 +1,5 @@
-# tutorial ekstraksi informasi
-berisi tutorial untuk melakukan ekstraksi informasi dari berita. 
+# Tutorial Ekstraksi Informasi
+Berisi tutorial untuk melakukan ekstraksi informasi dari berita. 
 Tutorial ini berasal dari situs https://www.youtube.com/watch?v=sUtthdcPyhc&t=273s
 
 <!---
